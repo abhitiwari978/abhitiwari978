@@ -19,7 +19,6 @@
 <a href="https://www.linkedin.com/in/gopal-tiwari-0454b3234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/gopal-tiwari-0454b3234" height="30" width="40" /></a>
 <a href="https://kaggle.com/gopaltiwari0978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gopaltiwari0978" height="30" width="40" /></a>
 <a href="https://instagram.com/abhitiwari978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhitiwari978" height="30" width="40" /></a>
-</p>
 <a href="https://medium.com/@gopaltiwarigopal786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gopaltiwarigopal978" height="30" width="40" /></a>
 </p>
 
